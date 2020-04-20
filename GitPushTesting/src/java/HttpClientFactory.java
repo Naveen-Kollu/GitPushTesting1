@@ -5,7 +5,7 @@
  */
 
 
-import okhttp3.OkHttpClient;
+
 import javax.net.ssl.*;
 import java.security.cert.CertificateException;
 
